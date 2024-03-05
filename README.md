@@ -1,7 +1,7 @@
 # Analog2USBPhone
 
 Convert an old Analog Phone to an USB-Headset for ZOOM© and TEAMS©
-Based on a Teensy 4.0 and the Audio-Board Rev.D
+based on a Teensy 4.0 and the Audio-Board Rev.D
 
 Functions:
 The Phone will behave like in the old days.
