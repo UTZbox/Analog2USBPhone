@@ -16,6 +16,6 @@ To get the Coil moving it needs more than 5V, because the coil has high ohms.
 A DC/DC Converter which outputs min. 24V has to be used.
 To controll the coil back and forth, you have to use a Driver like the L239B
 
-I hope you hace fun by building one for you.
-It's even more fun to use it and show it off to your colleagues
+Have fun by building one for you.
+It's even more fun to use it and show it off to your colleagues at the office :-)
 
